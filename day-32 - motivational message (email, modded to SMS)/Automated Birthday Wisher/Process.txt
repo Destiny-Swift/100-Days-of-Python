@@ -1,0 +1,15 @@
+AUTOMATED BIRTHDAY WISHER
+Get Gemini working ✅
+Integrate Gemini for letter generation with the rest of automated birthday wisher
+Test code, edit to taste 😋
+
+
+
+GOOGLE SYNCHRONIZATION
+Setup Google Form and Google Sheets synchronization
+Fill Form from WhatsApp Status
+Setup Google Sheets and Python synchronization - get database and process with pandas
+Setup ChatGPT and Python synchronization - generate custom letter for contact with extra prompts below
+Setup smart modification system process for real special people (Family, LOML, Bosses, F-F, Acquaintances 🙂
+Figure out method to send SMS instead (this is Nigeria cause no one checks their email every day 🙂)
+Upload code to pythonanywhere.com (Possibly get the yearly subscription 🌚)
